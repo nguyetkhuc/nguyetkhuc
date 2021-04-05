@@ -14,6 +14,7 @@ Documentation, writing, content creation are my passions, I'm developing this Gi
 - [Sample How to Build a RetroPie](dummy link)
 - [Blog](dummy link)
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyet-khuc-a1a881205/)
+- Contact me at: [mng.khuc@gmail.com](mailto:mng.khuc@gmail.com)
 <!---
 nguyetkhuc/nguyetkhuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
