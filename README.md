@@ -9,7 +9,10 @@ Documentation, writing, content creation are my passions, I'm developing this Gi
 - Write training, internal, external materials or any documents that require concise and easy-to-comprehend language?
 
 #### Useful links
-- [Website](https://my-writing-portfolio.com/)
+- [Sample How to Create a Repository](https://github.com/nguyetkhuc/Technical-Writing/wiki/How-to-create-a-repository-on-GitHub)
+- [Sample How to Create a New Wiki Page](https://github.com/nguyetkhuc/Technical-Writing/wiki/How-to-create-a-new-Wiki-page-on-GitHub)
+- [Sample How to Build a RetroPie](dummy link)
+- [Blog](dummy link)
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyet-khuc-a1a881205/)
 <!---
 nguyetkhuc/nguyetkhuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
