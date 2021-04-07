@@ -10,7 +10,6 @@ Documentation, writing, content creation are my passions, I'm developing this Gi
 
 #### Useful links
 - [Public portfolio](https://github.com/nguyetkhuc/Technical-Writing)
-- [Blog](dummy link)
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyet-khuc-a1a881205/)
 - Contact me at: [mng.khuc@gmail.com](mailto:mng.khuc@gmail.com)
 <!---
