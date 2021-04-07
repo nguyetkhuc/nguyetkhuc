@@ -2,7 +2,7 @@
 
 I’m Minh-Nguyet Khuc, and people usually call me Minh.
 I'm currently a student at Goethe University - Frankfurt am Main and an aspiring Technical Writer. 
-Documentation, writing, content creation are my passions, I'm developing this GitHub profile and [my website](https://my-writing-portfolio.com/) as parts of my portfolio. Are you looking for someone to:
+Documentation, writing, content creation are my passions, I'm developing this GitHub profile as part of my portfolio. Are you looking for someone to:
 - Assist the technical writer lead in the documentation process?
 - Document your product or software for users to understand and optimize user experience?
 - Take over writing tasks that are overloading your team?
