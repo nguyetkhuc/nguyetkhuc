@@ -1,6 +1,6 @@
-#### Hi, Hallo, Xin chào, 
+#### Hi,
 
-I’m Minh-Nguyet Khuc, and people usually call me Minh 👋 
+I’m Minh-Nguyet Khuc, and people usually call me Minh.
 I'm currently a student at Goethe University - Frankfurt am Main and an aspiring Technical Writer. 
 Documentation, writing, content creation are my passions, I'm developing this GitHub profile and [my website](https://my-writing-portfolio.com/) as parts of my portfolio. Are you looking for someone to:
 - Assist the technical writer lead in the documentation process?
