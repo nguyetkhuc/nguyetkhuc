@@ -14,7 +14,7 @@ Documentation, writing, translation, and content creation are my passions, I'm d
 - [Portfolio](https://drive.google.com/drive/folders/19s5vY5zxOUu1AlrE6HcFhEt_v-8OI9tl?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyet-xayavong/)
 - Contact me at: [mn.xayavong@gmail.com](mailto:mn.xayavong@gmail.com)
-- Some writing samples can also be found in my GitHub profile!
+- Some writing samples can also be found in my GitHub profile under Repositories!
 <!---
 nguyetkhuc/nguyetkhuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
