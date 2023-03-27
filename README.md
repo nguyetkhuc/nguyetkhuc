@@ -1,12 +1,14 @@
 #### Hi,
 
 I’m Minh-Nguyet Xayavong, and people usually call me Minh.
-I graduated with a Bachelor's degree in English Studies, minoring in Anthropology, from Goethe University - Frankfurt am Main. Since 2021, I have moved to the US to be with my family. 
+
+I graduated with a Bachelor's degree in English Studies, minoring in Anthropology, from Goethe University - Frankfurt am Main. Since 2021, I have moved to the US to be with my family.
+
 Documentation, writing, translation, and content creation are my passions, I'm developing this GitHub profile as part of my portfolio. Are you looking for someone to:
 - Assist the technical writer lead in the documentation process?
 - Document your product or software for users to understand and optimize user experience?
 - Take over writing tasks that are overloading your team?
-- Write training, internal, external materials or any documents that require concise and easy-to-comprehend language?
+- Write training, internal, external materials or any documents that require concise and easy-to-understand language?
 
 #### Useful links
 - [Portfolio](https://drive.google.com/drive/folders/19s5vY5zxOUu1AlrE6HcFhEt_v-8OI9tl?usp=sharing)
