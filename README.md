@@ -11,7 +11,6 @@ Documentation, writing, translation, and content creation are my passions, I'm d
 - Write training, internal, external materials or any documents that require concise and easy-to-understand language?
 
 #### Useful links
-- [Portfolio](https://drive.google.com/drive/folders/19s5vY5zxOUu1AlrE6HcFhEt_v-8OI9tl?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyet-xayavong/)
 - Contact me at: [mn.xayavong@gmail.com](mailto:mn.xayavong@gmail.com)
 - Some writing samples can also be found in my GitHub profile under Repositories/Technical-Writing!
